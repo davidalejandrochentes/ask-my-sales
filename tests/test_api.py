@@ -187,10 +187,10 @@ class TestAskEndpoint:
             db_path=temp_db,
         )
 
-        # Monkeypatch get_settings to return test settings
-        import app.config
+        # Monkeypatch get_settings where it's used (app.main)
+        import app.main
 
-        monkeypatch.setattr(app.config, "get_settings", lambda: test_settings)
+        monkeypatch.setattr(app.main, "get_settings", lambda: test_settings)
 
         client = make_client()
         response = client.post("/ask", json={"question": "cuanto vendimos"})

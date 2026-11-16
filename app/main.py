@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 
 from app.config import Settings, get_settings
 from app.db import connect_ro, run_query
-from app.llm import LLMClient, LLMError, build_schema_context, get_llm_client
+from app.llm import LLMError, build_schema_context, get_llm_client
 from app.validator import InvalidSQLError, validate_sql
 
 app = FastAPI()
@@ -58,8 +58,8 @@ def health() -> dict[str, str]:
 def ask(
     request: AskRequest,
     settings: Settings = Depends(get_validated_settings),  # noqa: B008
-    llm: LLMClient = Depends(get_llm_client),  # noqa: B008
 ) -> AskResponse:
+    llm = get_llm_client(settings)
     db_path = settings.db_path
 
     # Build schema context

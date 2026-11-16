@@ -1,9 +1,10 @@
 import re
 from typing import Protocol
 
+import httpx
 from openai import APIError, OpenAI
 
-from app.config import get_settings
+from app.config import Settings
 
 
 class LLMError(Exception):
@@ -38,8 +39,7 @@ def _postprocess_response(raw_response: str) -> str:
 
 
 class NvidiaLLMClient:
-    def __init__(self) -> None:
-        settings = get_settings()
+    def __init__(self, settings: Settings) -> None:
         self.api_key = settings.nvidia_api_key
         self.base_url = settings.nvidia_base_url
         self.model = settings.nvidia_model
@@ -47,10 +47,11 @@ class NvidiaLLMClient:
         if not self.api_key or not self.model:
             raise LLMError("LLM not configured")
 
+        http_client = httpx.Client(timeout=30.0)
         self.client = OpenAI(
             api_key=self.api_key,
             base_url=self.base_url,
-            timeout=30.0,
+            http_client=http_client,
         )
 
     def generate_sql(self, question: str, schema_context: str) -> str:
@@ -132,5 +133,5 @@ def build_schema_context(conn) -> str:
     return "\n".join(lines)
 
 
-def get_llm_client() -> LLMClient:
-    return NvidiaLLMClient()
+def get_llm_client(settings: Settings) -> LLMClient:
+    return NvidiaLLMClient(settings)

@@ -25,8 +25,12 @@ python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 # .venv\Scripts\activate   # Windows
 
-# Instalar dependencias
+# Instalar dependencias (desarrollo: tests, lint, etc.)
 pip install -r requirements-dev.txt
+# Solo producción (sin tests/lint):
+# pip install -r requirements.txt
+```
+> **Nota**: `requirements-dev.txt` ya incluye `requirements.txt` (usa `-r requirements.txt` internamente). Para desarrollo usa `requirements-dev.txt`.
 ```
 
 ---
@@ -90,6 +94,82 @@ curl -X POST http://localhost:8000/ask \
   -H "Content-Type: application/json" \
   -d '{"question": "borra todos los pedidos de Mexico"}'
 ```
+
+### 4.1. Salida esperada de las peticiones
+
+**1. Ventas en España en marzo:**
+```json
+{
+  "question": "cuanto vendimos en Espana en marzo",
+  "sql": "SELECT total_sales FROM sales_by_month_country WHERE country = 'España' AND month = '2025-03' LIMIT 1000",
+  "columns": ["total_sales"],
+  "rows": [[1320.06]],
+  "row_count": 1
+}
+```
+
+**2. Top 3 países con más ventas:**
+```json
+{
+  "question": "cuales son los 3 paises con mas ventas",
+  "sql": "SELECT country, SUM(total_sales) AS total_sales FROM sales_by_month_country GROUP BY country ORDER BY total_sales DESC LIMIT 3",
+  "columns": ["country", "total_sales"],
+  "rows": [["Ecuador", 23858.95], ["Argentina", 23045.67], ["Chile", 21573.51]],
+  "row_count": 3
+}
+```
+
+**3. Pedidos cancelados en Chile:**
+```json
+{
+  "question": "cuantos pedidos cancelados hubo en Chile",
+  "sql": "SELECT COUNT(*) FROM orders WHERE country = 'Chile' AND status = 'cancelado' LIMIT 1000",
+  "columns": ["COUNT(*)"],
+  "rows": [[18]],
+  "row_count": 1
+}
+```
+
+**4. Ticket medio por producto:**
+```json
+{
+  "question": "cual fue el ticket medio por producto",
+  "sql": "SELECT product, AVG(amount) AS ticket_medio FROM orders WHERE status = 'completado' AND order_date BETWEEN '2025-01-01' AND '2025-12-31' GROUP BY product LIMIT 1000",
+  "columns": ["product", "ticket_medio"],
+  "rows": [
+    ["Altavoz", 279.17],
+    ["Auriculares", 239.66],
+    ["Cable USB-C", 239.63],
+    ["Disco SSD", 269.87],
+    ["Mochila", 268.24],
+    ["Monitor", 237.00],
+    ["Portátil", 236.85],
+    ["Ratón", 267.67],
+    ["Teclado", 239.12],
+    ["Webcam", 289.87]
+  ],
+  "row_count": 10
+}
+```
+
+**5. Intento de borrar pedidos (bloqueado):**
+```json
+{
+  "detail": {
+    "error": {
+      "code": "INVALID_SQL",
+      "message": "Only SELECT statements are allowed, got Delete"
+    }
+  }
+}
+```
+```
+
+**Código de respuesta HTTP:**
+- `200 OK`: Consultas válidas
+- `422 INVALID_SQL`: SQL no válido o peligroso
+- `502 LLM_UNAVAILABLE`: Error del LLM (timeout, red, auth)
+- `503 LLM_NOT_CONFIGURED`: Falta NVIDIA_API_KEY o NVIDIA_MODEL
 
 ### 5. Swagger UI (interactivo)
 Abre en navegador: **http://localhost:8000/docs**

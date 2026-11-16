@@ -1,0 +1,1051 @@
+fecha,cliente,pais,producto,importe,estado
+2025-11-24,Cliente_029,España,Auriculares,126.22,completado
+2025-02-22,Cliente_140,México,Mochila,213.85,completado
+2025-02-17,Cliente_056,Colombia,Cable USB-C,,pendiente
+2025-04-12,Cliente_140,Ecuador,Portátil,227.36,completado
+2025-01-04,Cliente_041,Ecuador,Webcam,142.55,completado
+2025-06-22,Cliente_027,México,Altavoz,52.87,completado
+2025-11-06,Cliente_068,España,Disco SSD,270.43,completado
+2025-02-10,Cliente_142,Chile,Mochila,443.30,completado
+2025-10-23,Cliente_050,México,Teclado,332.33,cancelado
+2025-05-29,Cliente_021,Colombia,Ratón,193.16,completado
+2025-11-22,Cliente_094,Argentina,Webcam,180.86,cancelado
+2025-05-17,Cliente_019,Argentina,Cable USB-C,365.92,completado
+2025-08-25,Cliente_098,Chile,Cable USB-C,113.71,completado
+2025-01-29,Cliente_059,España,Webcam,203.58,completado
+2025-04-19,Cliente_146,Perú,Portátil,329.44,completado
+2025-11-26,Cliente_118,Argentina,Auriculares,74.12,cancelado
+2025-10-15,Cliente_138,Chile,Mochila,217.07,pendiente
+2025-07-24,Cliente_093,Colombia,Monitor,257.22,completado
+2025-01-25,Cliente_029,Argentina,Monitor,397.08,completado
+2025-11-02,Cliente_017,Ecuador,Altavoz,299.96,completado
+2025-09-28,Cliente_065,España,Ratón,342.45,completado
+2025-05-17,Cliente_088,México,Auriculares,220.21,completado
+2025-01-02,Cliente_068,Argentina,Cable USB-C,,pendiente
+2025-06-02,Cliente_130,Colombia,Monitor,190.09,completado
+2025-10-04,Cliente_136,España,Mochila,165.46,completado
+2025-02-27,Cliente_093,Chile,Portátil,33.67,pendiente
+2025-02-10,Cliente_022,Estados Unidos,Ratón,489.10,completado
+2025-03-06,Cliente_033,Estados Unidos,Cable USB-C,86.74,completado
+07-11-2025,Cliente_109,Colombia,Cable USB-C,378.86,cancelado
+2025-04-13,Cliente_080,Ecuador,Webcam,221.86,completado
+2025-08-20,Cliente_031,Colombia,Portátil,36.69,completado
+2025-10-29,Cliente_142,Colombia,Mochila,114.01,completado
+2025-12-29,Cliente_016,Colombia,Ratón,453.18,completado
+2025-02-06,Cliente_132,Colombia,Auriculares,336.14,completado
+2025-10-04,Cliente_034,Estados Unidos,Portátil,393.39,completado
+2025-04-08,Cliente_025,México,Altavoz,180.38,completado
+2025-08-28,Cliente_014,México,Teclado,204.30,completado
+2025-02-25,Cliente_064,Colombia,Portátil,270.46,completado
+2025-08-05,Cliente_047,Chile,Disco SSD,128.65,completado
+2025-08-15,Cliente_141,México,Teclado,327.81,completado
+2025-01-08,Cliente_024,Colombia,Monitor,206.17,completado
+2025-04-20,Cliente_103,España,Monitor,192.59,completado
+2025-05-16,Cliente_117,Chile,Altavoz,349.81,cancelado
+2025-10-12,Cliente_125,Argentina,Portátil,151.87,completado
+2025-10-24,Cliente_139,España,Webcam,33.30,pendiente
+2025-09-02,Cliente_129,Argentina,Teclado,480.59,completado
+2025-04-06,Cliente_018,México,Portátil,204.87,pendiente
+2025-05-07,Cliente_149,España,Mochila,45.58,pendiente
+2025-10-26,Cliente_145,Perú,Auriculares,106.11,cancelado
+2025-06-10,Cliente_062,Chile,Altavoz,69.78,pendiente
+2025-06-03,Cliente_118,Perú,Ratón,9.61,pendiente
+2025-10-16,Cliente_026,México,Cable USB-C,110.51,completado
+2025-03-09,Cliente_090,México,Portátil,187.92,completado
+2025-08-13,Cliente_140,Chile,Mochila,492.01,pendiente
+2025-09-28,Cliente_003,Chile,Ratón,469.77,completado
+2025-05-16,Cliente_030,México,Cable USB-C,81.95,completado
+2025-11-06,Cliente_054,Perú,Portátil,345.31,completado
+2025-09-16,Cliente_126,Chile,Teclado,50.69,completado
+2025-05-22,Cliente_012,España,Webcam,386.70,pendiente
+2025-05-15,Cliente_042,Estados Unidos,Cable USB-C,354.31,pendiente
+2025.01.01,Cliente_029,México,Monitor,275.07,completado
+2025-10-26,Cliente_142,Argentina,Altavoz,68.09,completado
+2025-07-06,Cliente_011,Perú,Portátil,342.62,cancelado
+2025-02-22,Cliente_091,Ecuador,Mochila,375.99,completado
+2025-03-25,Cliente_046,Ecuador,Teclado,93.78,completado
+2025-07-30,Cliente_064,Chile,Monitor,394.75,completado
+2025-07-15,Cliente_010,Estados Unidos,Portátil,103.79,completado
+2025-06-29,Cliente_079,Colombia,Portátil,16.71,completado
+2025-07-24,Cliente_085,Chile,Ratón,483.61,completado
+2025-06-29,Cliente_131,Ecuador,Cable USB-C,168.92,completado
+2025-03-01,Cliente_067,Argentina,Mochila,,completado
+2025-01-20,Cliente_028,Ecuador,Webcam,365.63,completado
+2025-08-12,Cliente_131,México,Altavoz,450.25,completado
+2025-05-11,Cliente_012,Ecuador,Teclado,262.36,completado
+2025-12-18,Cliente_051,Perú,Altavoz,39.64,cancelado
+32-01-2025,Cliente_081,México,Auriculares,256.03,cancelado
+2025-07-29,Cliente_084,Ecuador,Auriculares,279.43,completado
+2025-08-04,Cliente_098,Argentina,Mochila,286.71,completado
+2025-10-08,Cliente_001,Chile,Auriculares,109.04,pendiente
+2025-11-07,Cliente_083,Estados Unidos,Disco SSD,223.87,completado
+2025-09-19,Cliente_122,Argentina,Ratón,145.47,pendiente
+2025-11-21,Cliente_086,México,Portátil,338.03,completado
+2025-04-12,Cliente_038,España,Teclado,126.20,completado
+2025-11-09,Cliente_019,Estados Unidos,Altavoz,443.64,pendiente
+2025-04-10,Cliente_099,Estados Unidos,Altavoz,125.77,pendiente
+2025-12-19,Cliente_002,México,Altavoz,113.33,cancelado
+2025-09-23,Cliente_119,España,Cable USB-C,128.35,completado
+2025-08-22,Cliente_035,Estados Unidos,Cable USB-C,494.01,pendiente
+2025-06-12,Cliente_114,Ecuador,Cable USB-C,225.73,completado
+2025-09-01,Cliente_116,Chile,Portátil,420.73,completado
+2025-09-24,Cliente_125,Colombia,Auriculares,222.74,cancelado
+2025-05-27,Cliente_061,Chile,Webcam,163.26,completado
+2025-02-11,Cliente_036,Argentina,Portátil,194.60,completado
+2025-12-28,Cliente_055,México,Altavoz,206.76,completado
+2025-08-27,Cliente_107,España,Portátil,417.28,completado
+2025-10-27,Cliente_006,Ecuador,Disco SSD,7.92,completado
+2025-06-02,Cliente_100,Ecuador,Cable USB-C,375.02,completado
+2025-11-05,Cliente_057,Estados Unidos,Portátil,140.10,completado
+2025-01-15,Cliente_100,Perú,Altavoz,363.47,completado
+2025-03-07,Cliente_137,España,Altavoz,297.99,pendiente
+2025-01-14,Cliente_022,Ecuador,Monitor,434.09,completado
+2025-01-26,Cliente_067,Ecuador,Webcam,,completado
+2025-06-22,Cliente_098,Chile,Altavoz,129.87,completado
+2025-08-29,Cliente_005,España,Webcam,115.99,completado
+2025-11-30,Cliente_011,España,Portátil,103.68,completado
+2025-11-15,Cliente_040,Colombia,Monitor,239.41,completado
+2025-10-16,Cliente_056,Estados Unidos,Auriculares,,completado
+2025-11-07,Cliente_030,Argentina,Auriculares,58.51,completado
+2025-06-09,Cliente_148,Ecuador,Altavoz,471.03,completado
+2025-02-08,Cliente_063,México,Auriculares,425.90,pendiente
+03/03/2025,Cliente_145,España,Webcam,268.71,pendiente
+2025-07-09,Cliente_018,Perú,Teclado,425.54,completado
+2025-02-24,Cliente_111,Perú,Disco SSD,355.12,completado
+2025-04-01,Cliente_134,Chile,Mochila,405.06,completado
+2025-09-05,Cliente_120,Ecuador,Mochila,137.86,completado
+2025-02-14,Cliente_072,Estados Unidos,Portátil,376.49,pendiente
+2025-11-09,Cliente_098,Perú,Teclado,249.68,completado
+2025-04-04,Cliente_125,Colombia,Webcam,399.93,completado
+2025-05-24,Cliente_071,España,Cable USB-C,474.29,completado
+2025-05-04,Cliente_105,Estados Unidos,Cable USB-C,380.29,cancelado
+2025-09-01,Cliente_126,Estados Unidos,Teclado,51.06,completado
+2025-07-27,Cliente_063,Chile,Mochila,187.67,pendiente
+29-09-2025,Cliente_089,Ecuador,Cable USB-C,168.74,cancelado
+2025-08-21,Cliente_070,Chile,Auriculares,119.12,cancelado
+2025-04-09,Cliente_081,México,Cable USB-C,475.68,cancelado
+2025-04-05,Cliente_050,Colombia,Disco SSD,141.87,pendiente
+2025-09-26,Cliente_073,México,Portátil,151.64,completado
+2025-04-02,Cliente_078,España,Cable USB-C,67.66,completado
+2025-01-28,Cliente_142,Chile,Monitor,320.75,cancelado
+2025-09-09,Cliente_027,España,Mochila,145.75,completado
+2025-08-14,Cliente_088,Argentina,Teclado,129.98,completado
+2025-02-28,Cliente_017,Ecuador,Disco SSD,41.67,pendiente
+2025-12-18,Cliente_014,Argentina,Monitor,406.52,completado
+2025-02-13,Cliente_064,México,Cable USB-C,383.40,pendiente
+2025-11-02,Cliente_058,Ecuador,Disco SSD,454.71,completado
+2025-10-29,Cliente_110,Chile,Mochila,312.41,pendiente
+2025-02-20,Cliente_054,Colombia,Auriculares,331.91,completado
+2025-05-03,Cliente_045,México,Monitor,6.32,completado
+2025-12-19,Cliente_121,Chile,Teclado,119.58,cancelado
+2025-05-25,Cliente_117,México,Portátil,462.34,pendiente
+2025-10-29,Cliente_051,Ecuador,Ratón,274.56,pendiente
+2025-03-18,Cliente_069,Argentina,Ratón,34.52,completado
+2025-11-01,Cliente_146,Chile,Disco SSD,66.56,cancelado
+2025-06-05,Cliente_104,Chile,Cable USB-C,272.29,completado
+2025-02-11,Cliente_011,Ecuador,Webcam,303.84,completado
+2025-02-16,Cliente_059,España,Auriculares,290.24,cancelado
+2025-03-31,Cliente_121,Estados Unidos,Auriculares,94.84,pendiente
+2025-08-12,Cliente_126,México,Disco SSD,177.24,completado
+2025-06-14,Cliente_027,Argentina,Webcam,208.76,completado
+2025-05-28,Cliente_103,España,Disco SSD,48.59,completado
+2025-06-15,Cliente_030,Ecuador,Cable USB-C,413.34,completado
+2025-12-03,Cliente_139,Estados Unidos,Altavoz,31.83,completado
+2025-07-05,Cliente_128,Estados Unidos,Teclado,105.76,pendiente
+2025-03-09,Cliente_074,Estados Unidos,Disco SSD,65.11,pendiente
+2025-11-08,Cliente_062,Argentina,Auriculares,277.67,pendiente
+2025-07-28,Cliente_024,Colombia,Ratón,233.42,completado
+28-11-2025,Cliente_040,Estados Unidos,Auriculares,256.89,completado
+2025-08-01,Cliente_124,Estados Unidos,Portátil,231.11,completado
+2025-07-16,Cliente_049,Argentina,Ratón,141.74,completado
+2025-06-24,Cliente_130,Chile,Teclado,145.01,completado
+2025-10-28,Cliente_149,Estados Unidos,Monitor,226.04,completado
+2025-06-26,Cliente_086,Ecuador,Disco SSD,466.76,completado
+2025-12-24,Cliente_062,Ecuador,Portátil,428.73,completado
+2025-01-23,Cliente_082,Estados Unidos,Altavoz,196.11,pendiente
+2025-11-30,Cliente_039,Estados Unidos,Teclado,67.49,pendiente
+2025-06-19,Cliente_026,Estados Unidos,Ratón,265.35,completado
+08-01-2025,Cliente_037,Ecuador,Monitor,42.04,completado
+2025-06-23,Cliente_102,México,Webcam,426.91,completado
+2025-07-14,Cliente_082,Estados Unidos,Cable USB-C,22.77,completado
+2025-05-01,Cliente_074,Colombia,Ratón,219.82,completado
+2025-11-21,Cliente_026,Estados Unidos,Monitor,348.53,completado
+2025-01-24,Cliente_084,España,Auriculares,182.44,completado
+2025-03-16,Cliente_063,Ecuador,Mochila,342.49,completado
+2025-03-29,Cliente_045,México,Mochila,436.07,pendiente
+2025-12-16,Cliente_062,Estados Unidos,Mochila,75.84,completado
+2025-11-23,Cliente_066,Estados Unidos,Auriculares,335.09,completado
+2025-05-28,Cliente_140,Argentina,Ratón,223.66,completado
+2025-10-28,Cliente_077,Ecuador,Auriculares,231.13,completado
+2025-04-12,Cliente_099,Estados Unidos,Ratón,122.42,pendiente
+2025-07-03,Cliente_148,Chile,Auriculares,15.86,pendiente
+2025-07-22,Cliente_071,España,Mochila,433.21,cancelado
+2025-01-26,Cliente_128,Chile,Portátil,305.50,completado
+2025-04-23,Cliente_049,Chile,Monitor,315.98,pendiente
+2025-11-27,Cliente_011,Chile,Disco SSD,21.52,completado
+2025-03-09,Cliente_024,Chile,Webcam,375.00,completado
+2025-04-13,Cliente_034,Perú,Cable USB-C,253.39,completado
+2025-03-26,Cliente_066,Estados Unidos,Auriculares,374.55,completado
+2025-02-28,Cliente_120,México,Monitor,378.30,completado
+2025-12-13,Cliente_102,Perú,Ratón,396.39,completado
+2025-05-16,Cliente_138,México,Disco SSD,187.45,cancelado
+2025-12-11,Cliente_068,Ecuador,Webcam,58.63,completado
+2025-08-30,Cliente_007,Perú,Mochila,114.58,completado
+2025-11-22,Cliente_119,Chile,Altavoz,62.75,completado
+2025-01-20,Cliente_078,Estados Unidos,Ratón,53.11,completado
+2025-03-11,Cliente_100,Estados Unidos,Webcam,336.89,cancelado
+2025-12-23,Cliente_139,Ecuador,Mochila,372.42,completado
+2025-08-01,Cliente_026,Estados Unidos,Mochila,207.02,completado
+2025-01-17,Cliente_095,Colombia,Disco SSD,225.12,completado
+2025-07-05,Cliente_026,Perú,Cable USB-C,451.34,pendiente
+2025-07-03,Cliente_016,Ecuador,Auriculares,98.96,completado
+2025-08-21,Cliente_024,Colombia,Mochila,485.69,completado
+2025-06-20,Cliente_063,Argentina,Mochila,106.58,cancelado
+2025-10-11,Cliente_054,Colombia,Portátil,167.64,completado
+2025-11-02,Cliente_001,Chile,Monitor,493.83,completado
+2025-05-09,Cliente_045,México,Teclado,70.24,completado
+2025-05-02,Cliente_083,España,Monitor,136.36,completado
+2025-08-04,Cliente_135,México,Ratón,240.74,cancelado
+2025-07-05,Cliente_132,México,Disco SSD,254.40,pendiente
+23 ene 2025,Cliente_134,Chile,Disco SSD,323.45,completado
+2025-02-01,Cliente_123,Ecuador,Altavoz,344.62,completado
+2025-12-31,Cliente_114,México,Ratón,164.45,completado
+2025-02-03,Cliente_033,Chile,Mochila,318.37,pendiente
+2025-12-31,Cliente_084,Ecuador,Mochila,267.63,completado
+2025-09-16,Cliente_111,México,Ratón,427.13,pendiente
+2025-10-10,Cliente_056,Ecuador,Disco SSD,444.61,completado
+2025-06-23,Cliente_117,Ecuador,Altavoz,366.16,completado
+2025-08-07,Cliente_081,Chile,Webcam,477.03,cancelado
+2025-08-31,Cliente_018,México,Ratón,51.15,completado
+2025-07-10,Cliente_034,España,Mochila,478.53,pendiente
+2025-06-18,Cliente_032,Ecuador,Webcam,437.44,cancelado
+2025-08-05,Cliente_014,Chile,Mochila,159.66,completado
+2025-10-23,Cliente_130,Colombia,Monitor,330.08,completado
+2025-02-25,Cliente_090,Perú,Ratón,382.49,pendiente
+2025-04-26,Cliente_110,España,Mochila,464.90,cancelado
+2025-05-17,Cliente_008,Argentina,Auriculares,352.84,completado
+2025-06-23,Cliente_090,España,Monitor,435.58,pendiente
+2025-12-03,Cliente_103,México,Monitor,371.78,completado
+2025-02-16,Cliente_136,Colombia,Altavoz,,completado
+2025-03-22,Cliente_095,Chile,Webcam,389.53,pendiente
+2025-11-02,Cliente_022,España,Monitor,82.92,pendiente
+2025-01-26,Cliente_021,Chile,Disco SSD,332.66,completado
+2025-11-07,Cliente_114,Ecuador,Auriculares,111.71,completado
+2025-02-28,Cliente_089,Ecuador,Ratón,145.21,cancelado
+31 oct 2025,Cliente_125,Chile,Teclado,114.16,pendiente
+29/01/2025,Cliente_002,Colombia,Auriculares,472.94,cancelado
+2025-03-12,Cliente_066,Chile,Webcam,64.39,completado
+2025-08-09,Cliente_045,Argentina,Altavoz,268.63,completado
+2025-09-14,Cliente_144,Perú,Ratón,201.55,cancelado
+2025-01-22,Cliente_112,España,Disco SSD,460.98,completado
+2025-10-22,Cliente_110,Ecuador,Altavoz,148.31,completado
+2025-01-11,Cliente_084,Argentina,Mochila,232.75,cancelado
+2025-07-05,Cliente_023,Ecuador,Ratón,125.44,pendiente
+2025-07-25,Cliente_135,México,Altavoz,435.91,cancelado
+2025-06-23,Cliente_057,Perú,Monitor,42.81,pendiente
+2025-02-28,Cliente_136,Colombia,Webcam,178.79,pendiente
+2025-03-17,Cliente_061,México,Monitor,131.70,completado
+2025-11-05,Cliente_040,México,Monitor,475.89,pendiente
+2025-09-10,Cliente_119,Estados Unidos,Mochila,323.28,pendiente
+2025-06-15,Cliente_081,Argentina,Disco SSD,38.80,completado
+2025-11-20,Cliente_078,Chile,Mochila,32.81,completado
+2025-02-07,Cliente_080,Estados Unidos,Disco SSD,23.62,completado
+2025-05-27,Cliente_020,México,Mochila,299.07,completado
+2025-08-25,Cliente_149,España,Disco SSD,454.98,pendiente
+2025-11-30,Cliente_049,Perú,Mochila,240.44,completado
+2025-02-01,Cliente_116,México,Webcam,491.28,completado
+2025-09-16,Cliente_045,España,Portátil,355.27,completado
+2025-09-26,Cliente_134,Argentina,Webcam,189.56,completado
+2025-07-18,Cliente_105,Perú,Mochila,30.92,pendiente
+2025-11-28,Cliente_086,México,Webcam,51.78,cancelado
+2025-07-17,Cliente_073,Chile,Mochila,,completado
+2025-02-11,Cliente_150,Argentina,Webcam,158.56,pendiente
+2025-12-24,Cliente_101,Argentina,Mochila,355.87,completado
+2025-06-08,Cliente_144,Ecuador,Webcam,407.53,cancelado
+2025-12-26,Cliente_135,México,Altavoz,256.70,completado
+2025-07-05,Cliente_080,Argentina,Portátil,174.16,cancelado
+2025-09-06,Cliente_050,Colombia,Monitor,81.70,completado
+2025-02-21,Cliente_130,España,Webcam,438.81,pendiente
+2025-03-09,Cliente_097,Argentina,Monitor,94.52,cancelado
+2025-11-16,Cliente_043,Estados Unidos,Teclado,208.38,cancelado
+2025-05-02,Cliente_114,Chile,Disco SSD,120.83,completado
+2025-06-08,Cliente_121,Colombia,Webcam,340.76,pendiente
+2025-08-14,Cliente_119,Chile,Altavoz,253.94,completado
+2025-03-24,Cliente_052,Argentina,Auriculares,30.83,completado
+2025-07-10,Cliente_142,México,Cable USB-C,,completado
+2025-02-12,Cliente_042,Chile,Disco SSD,453.13,completado
+2025-08-12,Cliente_024,Colombia,Disco SSD,442.89,completado
+2025-08-01,Cliente_014,Ecuador,Cable USB-C,190.11,completado
+2025-02-11,Cliente_096,Colombia,Teclado,162.75,completado
+2025-11-29,Cliente_086,Argentina,Monitor,23.96,completado
+2025-12-23,Cliente_036,Estados Unidos,Disco SSD,309.60,completado
+2025-01-10,Cliente_066,Colombia,Monitor,276.66,cancelado
+08-11-2025,Cliente_136,Ecuador,Ratón,389.21,completado
+2025-06-04,Cliente_032,España,Portátil,212.81,pendiente
+2025-08-23,Cliente_017,México,Disco SSD,300.39,completado
+2025-11-20,Cliente_132,Colombia,Monitor,149.18,completado
+11 nov 2025,Cliente_091,Colombia,Mochila,211.20,cancelado
+2025-12-09,Cliente_022,Perú,Ratón,476.93,completado
+2025-09-17,Cliente_130,España,Altavoz,437.30,completado
+2025-11-22,Cliente_100,Perú,Auriculares,374.92,completado
+2025-02-04,Cliente_089,Colombia,Ratón,386.89,cancelado
+2025-06-20,Cliente_035,España,Webcam,275.28,pendiente
+2025-03-31,Cliente_119,Estados Unidos,Monitor,406.69,completado
+2025-08-23,Cliente_010,Chile,Portátil,26.68,completado
+2025-01-22,Cliente_081,Chile,Cable USB-C,202.12,completado
+2025-08-31,Cliente_065,España,Portátil,146.62,cancelado
+2025-01-25,Cliente_085,Chile,Ratón,400.67,completado
+2025-07-24,Cliente_113,Ecuador,Webcam,486.99,completado
+2025-12-21,Cliente_128,Perú,Cable USB-C,137.03,completado
+2025-08-06,Cliente_021,Ecuador,Mochila,497.57,completado
+2025-10-07,Cliente_076,Perú,Ratón,44.63,pendiente
+2025-06-01,Cliente_079,Estados Unidos,Mochila,360.24,completado
+2025-12-20,Cliente_114,Perú,Disco SSD,25.97,completado
+2025-11-11,Cliente_112,Chile,Teclado,42.15,pendiente
+2025-07-27,Cliente_094,Argentina,Teclado,75.68,pendiente
+2025-12-14,Cliente_113,España,Monitor,38.28,cancelado
+2025-11-27,Cliente_094,Perú,Altavoz,474.99,completado
+2025-11-06,Cliente_040,Estados Unidos,Webcam,189.15,cancelado
+2025-02-09,Cliente_147,Argentina,Cable USB-C,186.64,completado
+2025-11-29,Cliente_072,Colombia,Ratón,17.83,completado
+2025-09-13,Cliente_133,Ecuador,Cable USB-C,63.29,cancelado
+2025-05-14,Cliente_115,Colombia,Mochila,146.36,completado
+2025-04-13,Cliente_032,Argentina,Ratón,228.76,cancelado
+2025-08-16,Cliente_023,Perú,Webcam,356.22,pendiente
+2025-10-05,Cliente_075,Chile,Monitor,357.35,cancelado
+2025-11-23,Cliente_045,Perú,Cable USB-C,116.00,completado
+2025-03-13,Cliente_061,Estados Unidos,Teclado,183.64,pendiente
+2025-07-08,Cliente_120,Argentina,Mochila,,completado
+2025-06-08,Cliente_102,Estados Unidos,Cable USB-C,208.34,completado
+2025-10-22,Cliente_019,Argentina,Webcam,322.96,completado
+2025-08-27,Cliente_133,Perú,Monitor,439.59,cancelado
+2025-10-10,Cliente_047,Argentina,Altavoz,253.92,completado
+ayer,Cliente_133,Argentina,Auriculares,86.51,completado
+2025-12-30,Cliente_058,Perú,Cable USB-C,447.99,completado
+2025-05-09,Cliente_051,Chile,Monitor,314.39,pendiente
+2025-10-01,Cliente_024,Argentina,Mochila,471.10,completado
+2025-03-29,Cliente_087,España,Teclado,45.21,pendiente
+2025-10-23,Cliente_068,Colombia,Mochila,211.21,pendiente
+2025-01-16,Cliente_128,Chile,Auriculares,244.06,cancelado
+2025-07-27,Cliente_077,Estados Unidos,Ratón,345.86,completado
+2025-08-14,Cliente_107,Estados Unidos,Disco SSD,105.99,pendiente
+2025-03-15,Cliente_081,Perú,Webcam,487.81,completado
+2025-07-09,Cliente_132,México,Webcam,124.66,completado
+2025-05-17,Cliente_116,Colombia,Monitor,52.92,completado
+2025-07-16,Cliente_108,Colombia,Monitor,407.67,pendiente
+2025-06-10,Cliente_049,Argentina,Disco SSD,498.00,completado
+2025-09-13,Cliente_079,Estados Unidos,Teclado,49.57,completado
+2025-09-16,Cliente_118,Colombia,Portátil,293.76,completado
+2025-01-26,Cliente_073,Estados Unidos,Mochila,441.76,pendiente
+2025-12-11,Cliente_121,Chile,Cable USB-C,9.05,completado
+2025-08-09,Cliente_035,Chile,Webcam,383.11,completado
+2025-01-24,Cliente_103,España,Mochila,283.10,completado
+2025-10-11,Cliente_074,México,Altavoz,254.61,cancelado
+2025-10-09,Cliente_072,México,Monitor,487.67,completado
+2025-07-11,Cliente_087,Perú,Monitor,103.53,completado
+2025-07-25,Cliente_129,España,Teclado,24.26,cancelado
+2025-06-20,Cliente_122,Estados Unidos,Monitor,305.10,completado
+2025-03-13,Cliente_084,Perú,Monitor,199.51,pendiente
+2025-06-03,Cliente_087,Estados Unidos,Mochila,153.40,completado
+2025-07-08,Cliente_085,México,Altavoz,293.93,cancelado
+2025-12-19,Cliente_007,Estados Unidos,Auriculares,483.70,cancelado
+2025-10-24,Cliente_148,Colombia,Teclado,293.84,completado
+2025-09-26,Cliente_098,Argentina,Portátil,20.63,cancelado
+2025-02-26,Cliente_049,España,Disco SSD,160.28,completado
+2025-07-31,Cliente_053,Ecuador,Cable USB-C,388.61,completado
+manana,Cliente_036,Colombia,Cable USB-C,165.90,pendiente
+2025-09-02,Cliente_135,Ecuador,Webcam,478.56,completado
+2025-09-30,Cliente_088,Perú,Auriculares,306.99,completado
+2025-05-07,Cliente_072,Chile,Portátil,471.04,completado
+2025-05-28,Cliente_054,Estados Unidos,Webcam,242.50,pendiente
+2025-05-21,Cliente_074,México,Mochila,339.93,completado
+2025-07-22,Cliente_089,Argentina,Auriculares,25.82,cancelado
+2025-02-10,Cliente_089,Estados Unidos,Auriculares,374.93,completado
+2025-04-14,Cliente_138,Chile,Cable USB-C,349.60,completado
+2025-02-25,Cliente_062,Colombia,Teclado,336.57,completado
+2025-04-26,Cliente_060,España,Ratón,209.58,cancelado
+2025-08-30,Cliente_026,Argentina,Teclado,482.44,completado
+31-13-2025,Cliente_122,Estados Unidos,Portátil,379.18,completado
+2025-06-14,Cliente_074,España,Ratón,327.89,completado
+2025-10-01,Cliente_010,Argentina,Altavoz,441.71,completado
+2025-01-19,Cliente_102,Estados Unidos,Monitor,468.62,completado
+20/01/2025,Cliente_003,Chile,Mochila,303.38,completado
+2025-05-26,Cliente_117,Estados Unidos,Monitor,426.27,completado
+2025-05-20,Cliente_050,México,Webcam,85.43,completado
+2025-11-28,Cliente_066,Argentina,Teclado,369.63,completado
+2025/13/01,Cliente_050,Argentina,Mochila,428.79,completado
+2025-08-07,Cliente_132,Perú,Ratón,203.41,completado
+2025-04-05,Cliente_036,Estados Unidos,Webcam,468.23,completado
+2025-05-14,Cliente_099,Colombia,Disco SSD,378.11,completado
+2025-06-04,Cliente_150,España,Auriculares,328.57,cancelado
+2025-05-01,Cliente_016,México,Disco SSD,156.87,completado
+2025-12-18,Cliente_129,Chile,Ratón,321.16,completado
+2025-07-08,Cliente_057,Colombia,Monitor,,completado
+2025-11-07,Cliente_096,Ecuador,Cable USB-C,456.83,cancelado
+2025-10-03,Cliente_056,Colombia,Mochila,437.20,completado
+2025-09-27,Cliente_115,Perú,Ratón,459.04,completado
+2025-02-01,Cliente_141,Colombia,Mochila,270.65,completado
+2025-06-17,Cliente_134,Estados Unidos,Ratón,341.75,cancelado
+2025-10-26,Cliente_126,México,Cable USB-C,225.51,completado
+2025-08-21,Cliente_034,Ecuador,Disco SSD,284.14,pendiente
+2025-08-25,Cliente_079,España,Altavoz,130.96,completado
+2025-04-22,Cliente_149,México,Teclado,214.73,cancelado
+2025-02-02,Cliente_139,España,Ratón,493.14,completado
+2025-01-17,Cliente_074,Ecuador,Monitor,385.64,cancelado
+2025-11-25,Cliente_108,Perú,Altavoz,227.03,completado
+2025-07-12,Cliente_021,Argentina,Webcam,63.72,completado
+2025-07-21,Cliente_136,Argentina,Portátil,418.24,cancelado
+2025-01-12,Cliente_077,Estados Unidos,Cable USB-C,214.94,completado
+2025-04-28,Cliente_064,Estados Unidos,Webcam,81.79,completado
+2025-02-27,Cliente_009,Ecuador,Mochila,384.20,completado
+2025-05-04,Cliente_053,México,Ratón,299.00,completado
+2025-11-03,Cliente_013,Colombia,Teclado,204.12,completado
+2025-10-04,Cliente_056,España,Monitor,254.43,completado
+2025-04-30,Cliente_148,Perú,Mochila,,cancelado
+2025-06-14,Cliente_061,Chile,Monitor,492.92,completado
+2025-04-24,Cliente_106,Chile,Auriculares,35.17,pendiente
+2025-03-31,Cliente_110,Estados Unidos,Teclado,486.28,pendiente
+2025-12-10,Cliente_098,Perú,Altavoz,207.09,completado
+invalid,Cliente_048,Estados Unidos,Portátil,425.42,completado
+2025-12-29,Cliente_037,Estados Unidos,Teclado,283.38,completado
+2025-10-13,Cliente_136,Argentina,Altavoz,125.21,completado
+2025-06-19,Cliente_021,Estados Unidos,Webcam,50.77,cancelado
+2025-04-08,Cliente_014,Chile,Altavoz,338.47,pendiente
+2025-01-21,Cliente_019,Colombia,Mochila,363.53,pendiente
+2025-04-22,Cliente_123,Colombia,Webcam,155.08,completado
+2025-04-19,Cliente_049,México,Disco SSD,457.65,cancelado
+2025-11-06,Cliente_053,Ecuador,Portátil,278.28,cancelado
+2025-05-25,Cliente_098,Estados Unidos,Cable USB-C,,completado
+2025-05-14,Cliente_093,Estados Unidos,Disco SSD,53.81,cancelado
+2025-08-29,Cliente_082,Colombia,Webcam,159.90,completado
+2025-10-16,Cliente_057,Argentina,Teclado,134.08,pendiente
+2025-10-24,Cliente_107,Chile,Monitor,102.11,completado
+2025-07-14,Cliente_146,Colombia,Disco SSD,277.57,cancelado
+2025-06-22,Cliente_066,Estados Unidos,Disco SSD,233.11,cancelado
+2025-06-30,Cliente_044,Argentina,Cable USB-C,246.72,completado
+2025-11-25,Cliente_016,España,Ratón,472.87,cancelado
+2025-01-25,Cliente_002,Ecuador,Monitor,422.06,completado
+2025-02-04,Cliente_039,España,Portátil,255.34,completado
+2025-01-31,Cliente_124,Estados Unidos,Teclado,8.27,pendiente
+2025-07-30,Cliente_004,España,Cable USB-C,362.49,completado
+2025-05-27,Cliente_005,Ecuador,Monitor,57.97,completado
+2025-09-26,Cliente_039,Colombia,Portátil,311.79,completado
+2025-07-01,Cliente_069,Ecuador,Ratón,189.66,completado
+2025-08-24,Cliente_145,Colombia,Portátil,153.49,completado
+2025-12-01,Cliente_009,México,Altavoz,192.74,pendiente
+2025-09-01,Cliente_015,España,Monitor,45.93,completado
+2025-11-27,Cliente_085,México,Cable USB-C,459.98,completado
+2025-04-19,Cliente_146,Estados Unidos,Auriculares,28.05,completado
+2025-12-17,Cliente_072,España,Monitor,464.74,completado
+2025-01-09,Cliente_054,Argentina,Altavoz,464.79,completado
+2025-03-25,Cliente_145,Colombia,Mochila,418.15,completado
+2025-12-13,Cliente_139,Perú,Altavoz,379.03,completado
+2025-12-19,Cliente_021,Perú,Teclado,53.35,completado
+2025-02-08,Cliente_088,Ecuador,Webcam,19.66,completado
+2025-08-19,Cliente_126,Colombia,Webcam,278.75,completado
+2025-08-10,Cliente_048,Ecuador,Ratón,387.22,completado
+2025-05-07,Cliente_019,México,Auriculares,81.34,cancelado
+2025-11-21,Cliente_040,Ecuador,Webcam,183.55,completado
+2025-01-03,Cliente_079,Estados Unidos,Webcam,381.87,completado
+2025-03-09,Cliente_023,Argentina,Altavoz,227.18,pendiente
+2025-09-20,Cliente_105,México,Teclado,49.36,pendiente
+2025-02-17,Cliente_084,Ecuador,Teclado,149.46,completado
+2025-02-13,Cliente_144,Colombia,Mochila,262.95,cancelado
+2025-07-14,Cliente_044,Argentina,Auriculares,154.06,completado
+2025-03-16,Cliente_017,Argentina,Altavoz,141.60,completado
+2025-09-05,Cliente_020,Perú,Auriculares,472.39,cancelado
+2025-11-17,Cliente_127,Colombia,Disco SSD,57.95,completado
+2025-01-04,Cliente_102,Perú,Mochila,193.05,completado
+2025-08-14,Cliente_086,Ecuador,Mochila,72.38,completado
+2025-11-05,Cliente_052,Estados Unidos,Webcam,92.93,completado
+13-06-2025,Cliente_075,Estados Unidos,Mochila,392.08,completado
+2025-07-12,Cliente_072,Ecuador,Webcam,61.37,pendiente
+13-04-2025,Cliente_140,Argentina,Cable USB-C,18.32,cancelado
+2025-08-25,Cliente_054,Estados Unidos,Auriculares,416.48,completado
+2025-07-29,Cliente_128,Argentina,Auriculares,124.80,pendiente
+2025-03-20,Cliente_109,Ecuador,Ratón,227.29,pendiente
+2025-09-03,Cliente_150,Ecuador,Cable USB-C,255.77,cancelado
+2025-08-03,Cliente_140,España,Webcam,352.31,completado
+2025-11-01,Cliente_022,México,Portátil,330.51,completado
+2025-03-27,Cliente_012,Ecuador,Webcam,483.03,completado
+24 feb 2025,Cliente_003,México,Auriculares,114.89,cancelado
+2025-09-23,Cliente_143,Colombia,Disco SSD,190.19,completado
+2025-12-14,Cliente_129,Argentina,Webcam,498.86,completado
+2025-02-23,Cliente_076,Ecuador,Ratón,62.45,cancelado
+2025-03-14,Cliente_090,Chile,Webcam,230.39,completado
+2025-09-24,Cliente_124,Perú,Disco SSD,53.32,cancelado
+2025-12-23,Cliente_116,Perú,Ratón,153.63,cancelado
+2025-02-28,Cliente_006,Perú,Ratón,340.18,completado
+5 may 2025,Cliente_133,Argentina,Cable USB-C,84.27,pendiente
+2025-08-07,Cliente_119,Colombia,Altavoz,316.73,completado
+2025-11-24,Cliente_111,Ecuador,Teclado,370.01,completado
+2025-08-19,Cliente_110,Ecuador,Teclado,353.84,completado
+2025-05-23,Cliente_017,México,Cable USB-C,97.55,completado
+2025-04-11,Cliente_118,México,Auriculares,337.00,completado
+2025-09-28,Cliente_081,Ecuador,Mochila,199.31,completado
+2025-06-28,Cliente_091,Estados Unidos,Mochila,90.40,cancelado
+2025-12-28,Cliente_077,México,Monitor,160.03,completado
+2025-06-06,Cliente_030,Argentina,Webcam,348.25,completado
+2025-07-18,Cliente_108,Argentina,Mochila,194.94,completado
+2025-09-07,Cliente_138,Argentina,Cable USB-C,87.60,completado
+2025-03-13,Cliente_048,Perú,Disco SSD,311.61,completado
+2025-01-05,Cliente_125,Argentina,Portátil,408.53,pendiente
+2025-09-16,Cliente_127,Ecuador,Disco SSD,210.74,completado
+2025-09-08,Cliente_043,México,Mochila,20.28,cancelado
+2025-04-23,Cliente_075,España,Auriculares,116.30,completado
+2025-03-28,Cliente_118,Estados Unidos,Cable USB-C,257.85,pendiente
+2025-02-28,Cliente_069,Perú,Cable USB-C,412.19,completado
+2025-08-14,Cliente_140,Colombia,Altavoz,55.70,pendiente
+2025-05-07,Cliente_077,España,Disco SSD,135.09,completado
+2025-08-13,Cliente_031,Colombia,Portátil,406.30,pendiente
+2025-12-19,Cliente_090,Ecuador,Monitor,309.99,completado
+2025-04-16,Cliente_016,Perú,Cable USB-C,144.14,completado
+2025-03-28,Cliente_083,Chile,Auriculares,288.50,completado
+2025-12-14,Cliente_025,Argentina,Altavoz,459.79,completado
+2025-12-02,Cliente_033,Argentina,Portátil,77.39,completado
+2025-05-07,Cliente_101,Estados Unidos,Monitor,290.83,completado
+2025-11-18,Cliente_107,Ecuador,Disco SSD,42.38,cancelado
+2025-02-17,Cliente_104,Chile,Webcam,230.07,completado
+2025-06-17,Cliente_149,España,Ratón,366.81,completado
+2025-11-22,Cliente_092,México,Cable USB-C,201.87,completado
+2025-04-19,Cliente_127,Chile,Webcam,415.03,completado
+2025-10-08,Cliente_148,Argentina,Mochila,426.95,completado
+2025-12-16,Cliente_013,España,Ratón,314.96,completado
+2025-01-09,Cliente_032,Argentina,Disco SSD,230.98,completado
+2025-04-14,Cliente_034,Chile,Monitor,437.84,completado
+2025-02-17,Cliente_093,Chile,Ratón,189.06,pendiente
+2025-03-26,Cliente_014,Ecuador,Auriculares,364.36,cancelado
+30/04/2025,Cliente_110,México,Ratón,5.54,completado
+2025-02-09,Cliente_034,Colombia,Cable USB-C,341.59,completado
+2025-01-05,Cliente_088,México,Altavoz,348.55,completado
+2025-13-45,Cliente_059,Ecuador,Ratón,366.73,completado
+2025-02-22,Cliente_081,Perú,Auriculares,72.88,cancelado
+2025-03-10,Cliente_037,México,Cable USB-C,283.83,pendiente
+2025-11-29,Cliente_043,Estados Unidos,Webcam,362.60,pendiente
+2025-03-19,Cliente_106,Estados Unidos,Portátil,47.91,completado
+no-fecha,Cliente_032,Ecuador,Webcam,481.81,completado
+2025-03-13,Cliente_064,Chile,Ratón,127.84,pendiente
+2025-11-04,Cliente_073,España,Auriculares,106.70,pendiente
+2025-09-18,Cliente_049,Ecuador,Auriculares,324.85,completado
+2025-09-11,Cliente_099,México,Portátil,252.29,pendiente
+2025-02-06,Cliente_136,España,Webcam,467.29,completado
+2025-07-18,Cliente_146,Ecuador,Webcam,275.45,completado
+2025-08-30,Cliente_019,España,Mochila,38.43,completado
+2025-04-21,Cliente_011,España,Altavoz,255.77,pendiente
+2025-12-31,Cliente_129,Ecuador,Altavoz,352.40,completado
+2025-11-24,Cliente_138,Argentina,Auriculares,46.38,completado
+2025-09-19,Cliente_053,Argentina,Cable USB-C,166.74,pendiente
+2025-11-21,Cliente_017,Chile,Altavoz,366.33,completado
+2025-01-30,Cliente_063,México,Altavoz,62.41,pendiente
+2025-11-08,Cliente_015,Chile,Monitor,64.12,cancelado
+2025-03-12,Cliente_003,Argentina,Disco SSD,476.74,completado
+2025-09-22,Cliente_067,Argentina,Webcam,67.83,cancelado
+2025-05-18,Cliente_031,España,Webcam,404.52,completado
+2025-09-26,Cliente_017,Chile,Mochila,315.63,completado
+2025-08-22,Cliente_131,Perú,Teclado,252.31,pendiente
+2025-03-27,Cliente_095,Argentina,Auriculares,387.80,pendiente
+2025-12-12,Cliente_030,Colombia,Cable USB-C,6.27,completado
+2025-05-06,Cliente_012,Estados Unidos,Webcam,194.57,completado
+2025-04-02,Cliente_010,Ecuador,Portátil,164.29,completado
+2025-06-13,Cliente_070,México,Mochila,189.54,completado
+2025-12-11,Cliente_014,Argentina,Portátil,403.15,completado
+2025-07-25,Cliente_018,Estados Unidos,Auriculares,387.90,completado
+2025-06-17,Cliente_023,Estados Unidos,Teclado,187.62,completado
+2025-10-16,Cliente_078,Colombia,Disco SSD,187.30,completado
+2025-04-11,Cliente_140,Colombia,Monitor,8.16,completado
+2025-01-13,Cliente_060,Perú,Teclado,475.74,completado
+2025-12-03,Cliente_097,Chile,Ratón,106.57,completado
+2025-08-03,Cliente_126,España,Monitor,357.27,completado
+2025-01-23,Cliente_060,Ecuador,Webcam,231.94,cancelado
+2025-02-13,Cliente_149,México,Cable USB-C,71.09,completado
+2025-02-08,Cliente_146,España,Altavoz,332.91,completado
+2025-05-02,Cliente_075,Chile,Webcam,463.39,completado
+2025-12-25,Cliente_084,Perú,Disco SSD,139.62,completado
+2025-04-14,Cliente_035,México,Monitor,57.30,completado
+2025-08-27,Cliente_081,Ecuador,Ratón,270.28,cancelado
+2025-04-17,Cliente_116,Chile,Disco SSD,136.18,completado
+2025-02-16,Cliente_041,Chile,Mochila,24.96,completado
+2025-03-17,Cliente_024,Colombia,Webcam,201.14,completado
+2025-12-13,Cliente_077,Chile,Monitor,20.39,completado
+2025-08-20,Cliente_143,Colombia,Ratón,233.71,completado
+2025-03-04,Cliente_004,España,Portátil,69.70,completado
+2025/3/,Cliente_022,Chile,Ratón,15.79,completado
+2025-04-12,Cliente_114,Argentina,Ratón,453.01,completado
+2025-03-04,Cliente_011,Estados Unidos,Teclado,88.15,pendiente
+2025-08-10,Cliente_102,Estados Unidos,Teclado,194.45,completado
+2025-03-30,Cliente_091,Colombia,Monitor,141.12,completado
+2025-03-18,Cliente_009,Colombia,Auriculares,251.95,pendiente
+2025-09-03,Cliente_016,México,Auriculares,194.59,completado
+2025-04-13,Cliente_135,Colombia,Cable USB-C,398.45,completado
+2025-07-03,Cliente_123,Estados Unidos,Webcam,456.78,completado
+2025-06-14,Cliente_100,Chile,Monitor,17.90,pendiente
+2025-04-23,Cliente_008,Chile,Teclado,405.28,completado
+2025-09-29,Cliente_092,Colombia,Monitor,54.57,pendiente
+2025-05-04,Cliente_069,España,Portátil,289.97,completado
+2025-07-01,Cliente_045,Argentina,Portátil,298.30,cancelado
+2025-12-24,Cliente_092,España,Webcam,474.04,pendiente
+2025-03-14,Cliente_145,Colombia,Disco SSD,273.35,completado
+2025-09-09,Cliente_010,México,Teclado,120.15,completado
+2025-01-11,Cliente_135,Estados Unidos,Teclado,169.21,pendiente
+2025-04-14,Cliente_034,Perú,Monitor,459.80,completado
+2025-01-31,Cliente_006,Argentina,Mochila,353.82,completado
+26-02-2025,Cliente_135,Perú,Ratón,189.93,pendiente
+2025-07-22,Cliente_026,Perú,Auriculares,164.69,completado
+2025-08-12,Cliente_125,Perú,Monitor,355.06,pendiente
+2025-12-22,Cliente_092,Colombia,Mochila,408.15,completado
+2025-06-07,Cliente_076,Argentina,Monitor,365.77,cancelado
+2025-10-21,Cliente_101,España,Monitor,303.18,pendiente
+2025-04-24,Cliente_145,México,Disco SSD,74.62,cancelado
+2025-02-09,Cliente_061,Perú,Webcam,88.10,completado
+2025-12-29,Cliente_086,Estados Unidos,Teclado,136.28,completado
+2025-12-21,Cliente_018,Perú,Auriculares,,cancelado
+2025-01-01,Cliente_013,Ecuador,Disco SSD,367.63,completado
+2025-07-31,Cliente_127,Ecuador,Webcam,275.28,completado
+2025-09-03,Cliente_148,Colombia,Monitor,228.39,completado
+2025-05-31,Cliente_006,Perú,Auriculares,476.07,completado
+2025-06-25,Cliente_044,Ecuador,Monitor,367.33,pendiente
+2025-02-17,Cliente_087,Estados Unidos,Teclado,218.51,pendiente
+2025-03-26,Cliente_112,Argentina,Teclado,55.12,completado
+2025-04-08,Cliente_105,Chile,Auriculares,,completado
+2025-01-26,Cliente_101,Estados Unidos,Monitor,31.98,completado
+2025-08-07,Cliente_023,Chile,Mochila,242.76,completado
+2025-01-14,Cliente_053,Argentina,Auriculares,488.64,completado
+2025-03-01,Cliente_079,Ecuador,Disco SSD,247.10,pendiente
+2025-05-16,Cliente_024,Ecuador,Monitor,188.66,completado
+2025-07-09,Cliente_048,Estados Unidos,Teclado,135.33,completado
+15-05-2025,Cliente_058,Chile,Mochila,35.51,cancelado
+2025-12-23,Cliente_025,México,Webcam,405.05,completado
+2025-10-29,Cliente_059,España,Altavoz,410.11,completado
+2025-10-02,Cliente_122,Colombia,Disco SSD,152.93,completado
+2025-01-18,Cliente_129,Argentina,Ratón,474.88,completado
+2025-03-30,Cliente_043,Colombia,Portátil,67.46,completado
+2025-02-10,Cliente_112,Colombia,Monitor,417.88,completado
+2025-06-13,Cliente_018,México,Altavoz,280.40,pendiente
+2025-06-16,Cliente_071,Estados Unidos,Teclado,394.34,pendiente
+2025-10-28,Cliente_134,Ecuador,Ratón,210.15,completado
+2025-10-18,Cliente_150,México,Ratón,283.53,completado
+27/05/2025,Cliente_138,Perú,Altavoz,135.75,pendiente
+2025-09-06,Cliente_147,Estados Unidos,Teclado,90.24,completado
+2025-03-15,Cliente_103,España,Altavoz,445.34,completado
+2025-12-20,Cliente_061,España,Disco SSD,460.81,completado
+2025-01-11,Cliente_087,Chile,Auriculares,143.77,completado
+2025-12-23,Cliente_026,Colombia,Monitor,153.74,cancelado
+2025-08-15,Cliente_083,Chile,Altavoz,304.46,completado
+2025-04-07,Cliente_114,Colombia,Altavoz,371.77,cancelado
+2025-09-22,Cliente_096,España,Cable USB-C,396.79,completado
+2025-06-09,Cliente_130,Ecuador,Monitor,391.36,completado
+2025-10-19,Cliente_008,Argentina,Portátil,438.21,completado
+2025-01-30,Cliente_064,España,Disco SSD,30.03,completado
+2025-12-27,Cliente_051,Chile,Webcam,412.64,completado
+2025-07-23,Cliente_032,España,Portátil,189.37,pendiente
+2025-08-17,Cliente_046,Estados Unidos,Mochila,277.91,completado
+2025-03-25,Cliente_067,México,Auriculares,18.59,completado
+2025-03-25,Cliente_147,Colombia,Portátil,325.45,cancelado
+2025-04-16,Cliente_069,Ecuador,Cable USB-C,14.93,cancelado
+16 dic 2025,Cliente_003,Estados Unidos,Monitor,325.45,pendiente
+2025-01-05,Cliente_058,Chile,Mochila,403.52,completado
+2025-12-31,Cliente_071,Ecuador,Altavoz,426.54,completado
+2025-05-10,Cliente_056,Estados Unidos,Auriculares,340.21,pendiente
+2025-07-23,Cliente_150,México,Teclado,258.20,pendiente
+2025-07-11,Cliente_144,Chile,Auriculares,343.78,completado
+2025-02-02,Cliente_087,Chile,Webcam,,completado
+2025-12-02,Cliente_077,Colombia,Monitor,261.06,completado
+2025-01-30,Cliente_104,Perú,Monitor,362.04,pendiente
+2025-09-12,Cliente_076,Chile,Altavoz,205.28,cancelado
+2025-01-19,Cliente_150,Colombia,Webcam,,completado
+2025-12-18,Cliente_137,Estados Unidos,Webcam,256.12,completado
+2025-12-03,Cliente_143,Argentina,Auriculares,53.31,completado
+2025-05-13,Cliente_144,Argentina,Webcam,328.95,completado
+2025-07-01,Cliente_058,Chile,Altavoz,395.10,completado
+2025-07-10,Cliente_067,Chile,Disco SSD,426.35,completado
+2025-01-28,Cliente_150,México,Disco SSD,445.27,completado
+2025-03-03,Cliente_098,Chile,Altavoz,31.76,completado
+2025-03-12,Cliente_052,Perú,Altavoz,493.66,completado
+2025-03-15,Cliente_081,Argentina,Ratón,246.35,pendiente
+2025-04-01,Cliente_081,España,Teclado,228.77,completado
+2025-03-28,Cliente_148,Argentina,Disco SSD,393.68,cancelado
+2025-02-15,Cliente_034,Ecuador,Altavoz,204.68,completado
+2025-07-16,Cliente_002,España,Cable USB-C,103.71,completado
+2025-01-08,Cliente_083,Colombia,Teclado,339.99,pendiente
+2025-05-08,Cliente_058,Perú,Auriculares,68.82,completado
+15/09/2025,Cliente_079,Argentina,Ratón,412.80,completado
+2025-05-29,Cliente_117,Perú,Altavoz,,completado
+2025-06-25,Cliente_126,Perú,Portátil,86.62,completado
+2025-01-10,Cliente_059,Colombia,Monitor,109.54,completado
+2025-10-29,Cliente_130,Argentina,Ratón,186.46,pendiente
+2025-01-20,Cliente_097,Chile,Cable USB-C,313.45,pendiente
+2025-01-25,Cliente_028,España,Teclado,346.43,completado
+2025-08-16,Cliente_098,México,Cable USB-C,130.11,cancelado
+2025-03-20,Cliente_053,España,Auriculares,213.33,completado
+6 dic 2025,Cliente_134,Chile,Mochila,304.79,completado
+2025-08-03,Cliente_027,México,Auriculares,61.44,completado
+2025-09-12,Cliente_051,Colombia,Auriculares,416.59,completado
+2025-07-03,Cliente_105,Chile,Monitor,24.51,completado
+2025-04-17,Cliente_124,Perú,Portátil,6.36,cancelado
+2025-02-15,Cliente_029,Estados Unidos,Monitor,474.98,cancelado
+2025-09-19,Cliente_020,México,Auriculares,323.95,completado
+2025-00-00,Cliente_068,Estados Unidos,Teclado,54.41,completado
+2025-01-21,Cliente_075,Perú,Webcam,215.87,completado
+2025-02-18,Cliente_012,España,Monitor,333.36,completado
+2025-06-18,Cliente_092,Estados Unidos,Mochila,137.81,cancelado
+2025-02-17,Cliente_096,Perú,Monitor,61.35,completado
+2025-08-22,Cliente_070,Ecuador,Disco SSD,400.95,pendiente
+2025-03-27,Cliente_029,Argentina,Teclado,490.88,completado
+2025-02-23,Cliente_107,Estados Unidos,Mochila,340.80,completado
+2025-11-09,Cliente_098,Perú,Mochila,19.26,cancelado
+2025-03-08,Cliente_124,Estados Unidos,Ratón,444.36,completado
+2025-01-24,Cliente_017,Chile,Webcam,11.12,cancelado
+2025-09-26,Cliente_148,Colombia,Webcam,261.95,cancelado
+2025-12-25,Cliente_025,Ecuador,Portátil,243.56,pendiente
+2025-12-13,Cliente_099,Argentina,Cable USB-C,446.57,pendiente
+2025-01-28,Cliente_003,Argentina,Cable USB-C,425.18,completado
+2025-03-26,Cliente_020,Estados Unidos,Webcam,124.24,completado
+2025-01-26,Cliente_130,Colombia,Cable USB-C,323.44,completado
+2025-05-01,Cliente_021,Estados Unidos,Disco SSD,401.62,completado
+2025-02-15,Cliente_128,Estados Unidos,Webcam,63.76,completado
+2025-12-01,Cliente_005,México,Altavoz,209.11,pendiente
+2025-10-09,Cliente_001,México,Mochila,481.77,pendiente
+2025-06-05,Cliente_131,Colombia,Disco SSD,475.43,completado
+2025-01-28,Cliente_058,Estados Unidos,Webcam,282.27,pendiente
+2025-11-04,Cliente_122,Perú,Disco SSD,61.44,cancelado
+2025-12-04,Cliente_057,España,Webcam,180.79,pendiente
+30/05/2025,Cliente_141,Perú,Ratón,27.66,completado
+2025-09-10,Cliente_036,Ecuador,Ratón,130.87,completado
+2025-04-07,Cliente_031,Ecuador,Portátil,231.24,completado
+2025-06-23,Cliente_028,Ecuador,Teclado,463.68,cancelado
+2025-10-29,Cliente_032,Estados Unidos,Disco SSD,330.94,completado
+2025-03-10,Cliente_128,España,Cable USB-C,369.43,pendiente
+2025-08-10,Cliente_150,Estados Unidos,Cable USB-C,391.64,completado
+21-12-2025,Cliente_149,Argentina,Monitor,56.26,pendiente
+2025-11-04,Cliente_083,Ecuador,Altavoz,489.85,cancelado
+2025-05-08,Cliente_071,Ecuador,Webcam,485.39,completado
+2025-03-10,Cliente_036,Ecuador,Mochila,351.51,cancelado
+2025-09-20,Cliente_077,Perú,Cable USB-C,318.13,completado
+2025-04-18,Cliente_075,Perú,Monitor,490.76,pendiente
+2025-04-02,Cliente_129,Perú,Ratón,381.58,pendiente
+2025-09-03,Cliente_150,Ecuador,Cable USB-C,,completado
+2025-01-07,Cliente_134,México,Teclado,193.53,completado
+2025-12-10,Cliente_015,Colombia,Auriculares,376.34,completado
+2025-01,Cliente_065,Argentina,Teclado,346.84,completado
+2025-04-15,Cliente_139,España,Webcam,407.94,completado
+2025-11-12,Cliente_144,Colombia,Cable USB-C,197.50,completado
+2025-12-23,Cliente_074,España,Altavoz,196.84,cancelado
+2025-06-10,Cliente_142,España,Teclado,373.12,completado
+2025-11-14,Cliente_114,Colombia,Webcam,378.78,completado
+2025-11-05,Cliente_051,Colombia,Auriculares,227.16,cancelado
+2025-02-08,Cliente_048,Argentina,Cable USB-C,64.08,completado
+2025-08-08,Cliente_072,Chile,Monitor,84.66,completado
+2025-01-03,Cliente_085,Estados Unidos,Monitor,24.77,completado
+02/11/2025,Cliente_014,Chile,Disco SSD,396.00,pendiente
+2025-07-03,Cliente_019,Perú,Cable USB-C,113.88,completado
+2025-09-24,Cliente_018,Argentina,Altavoz,273.82,completado
+2025-02-17,Cliente_090,Colombia,Portátil,333.35,completado
+2025-07-04,Cliente_076,Colombia,Mochila,267.60,pendiente
+2025-11-29,Cliente_003,México,Webcam,225.61,pendiente
+2025-11-11,Cliente_063,España,Webcam,193.78,completado
+17-07-2025,Cliente_066,Chile,Teclado,456.11,cancelado
+2025-07-11,Cliente_132,Estados Unidos,Disco SSD,26.71,pendiente
+2025-04-09,Cliente_083,México,Ratón,87.86,cancelado
+2025-10-03,Cliente_137,España,Ratón,109.34,pendiente
+2025-04-20,Cliente_109,México,Portátil,271.19,cancelado
+2025-08-11,Cliente_019,Argentina,Teclado,232.32,completado
+2025-01-20,Cliente_023,México,Teclado,93.11,completado
+2025-10-13,Cliente_019,Colombia,Auriculares,206.78,completado
+2025-11-19,Cliente_104,Ecuador,Webcam,13.36,cancelado
+2025-03-02,Cliente_137,España,Mochila,36.30,cancelado
+2025-10-27,Cliente_012,México,Webcam,464.38,completado
+2025-05-29,Cliente_078,México,Auriculares,383.81,completado
+2025-07-15,Cliente_102,España,Disco SSD,82.38,completado
+2025-03-11,Cliente_101,Chile,Monitor,152.54,cancelado
+2025-11-28,Cliente_096,España,Cable USB-C,438.01,completado
+05/03/2025,Cliente_011,España,Mochila,300.34,completado
+2025-10-08,Cliente_022,Chile,Portátil,375.41,cancelado
+2025-06-26,Cliente_055,Ecuador,Cable USB-C,75.52,completado
+2025-04-24,Cliente_065,Colombia,Ratón,94.77,pendiente
+2025-01-28,Cliente_141,Estados Unidos,Cable USB-C,41.21,cancelado
+2025-02-04,Cliente_065,México,Portátil,,completado
+2025-06-19,Cliente_092,Argentina,Portátil,54.52,pendiente
+2025-02-05,Cliente_050,Perú,Disco SSD,228.07,pendiente
+2025-12-04,Cliente_079,Argentina,Mochila,285.60,completado
+2025-08-08,Cliente_044,España,Webcam,126.86,completado
+2025-12-31,Cliente_112,Chile,Webcam,71.48,cancelado
+2025-06-19,Cliente_123,Estados Unidos,Disco SSD,182.58,completado
+2025-09-07,Cliente_142,México,Monitor,324.55,completado
+2025-05-24,Cliente_036,Colombia,Auriculares,,pendiente
+2025-02-09,Cliente_020,España,Cable USB-C,317.66,pendiente
+2025-10-24,Cliente_104,Colombia,Teclado,278.04,completado
+2025-10-04,Cliente_121,Argentina,Webcam,199.29,cancelado
+2025-10-29,Cliente_075,Argentina,Disco SSD,253.06,completado
+2025-07-23,Cliente_094,España,Portátil,424.75,pendiente
+2025-12-17,Cliente_043,Argentina,Disco SSD,83.82,pendiente
+2025-10-17,Cliente_038,Estados Unidos,Webcam,25.01,cancelado
+2025-09-07,Cliente_060,México,Auriculares,187.87,completado
+2025-12-09,Cliente_053,Perú,Altavoz,237.49,completado
+2025-01-24,Cliente_011,Perú,Ratón,353.35,completado
+2025-11-21,Cliente_071,Chile,Mochila,,completado
+2025-07-12,Cliente_097,Perú,Mochila,328.40,completado
+2025-09-22,Cliente_065,Ecuador,Portátil,260.60,completado
+2025-06-26,Cliente_125,Estados Unidos,Mochila,8.27,completado
+2025-08-14,Cliente_043,Colombia,Ratón,259.70,completado
+2025-04-19,Cliente_039,Argentina,Monitor,184.30,cancelado
+01-01,Cliente_059,Ecuador,Webcam,361.53,completado
+2025-12-12,Cliente_123,Estados Unidos,Portátil,297.44,pendiente
+2025-07-30,Cliente_006,Colombia,Teclado,68.30,pendiente
+2025-03-24,Cliente_035,España,Mochila,77.70,completado
+2025-05-13,Cliente_047,Ecuador,Mochila,484.78,pendiente
+2025-01-10,Cliente_073,México,Portátil,227.36,completado
+2025-09-04,Cliente_044,Colombia,Altavoz,302.42,pendiente
+2025-04-04,Cliente_131,Chile,Monitor,363.47,completado
+21/08/2025,Cliente_018,Colombia,Altavoz,195.80,completado
+2025-01-09,Cliente_052,Ecuador,Monitor,,completado
+2025-09-01,Cliente_010,México,Ratón,243.71,completado
+05-11-2025,Cliente_139,España,Altavoz,263.41,completado
+2025-01-23,Cliente_136,Ecuador,Portátil,469.52,completado
+2025-07-15,Cliente_090,México,Altavoz,71.27,completado
+2025-04-30,Cliente_022,Chile,Mochila,439.00,completado
+2025-05-12,Cliente_049,España,Teclado,291.10,completado
+2025-09-24,Cliente_002,Ecuador,Portátil,345.44,completado
+2025-07-29,Cliente_093,México,Monitor,,pendiente
+2025-05-10,Cliente_067,Ecuador,Mochila,185.99,completado
+2025-12-15,Cliente_102,Colombia,Altavoz,278.29,pendiente
+2025-09-05,Cliente_046,Perú,Cable USB-C,279.68,completado
+2025-06-07,Cliente_148,Perú,Altavoz,369.21,pendiente
+2025-03-02,Cliente_059,Estados Unidos,Monitor,54.64,completado
+2025-07-25,Cliente_087,España,Monitor,197.61,pendiente
+2025-01-03,Cliente_024,Argentina,Disco SSD,463.30,completado
+2025-02-15,Cliente_017,Chile,Portátil,188.56,pendiente
+2025-01-20,Cliente_099,Ecuador,Mochila,329.81,completado
+2025-12-31,Cliente_015,Argentina,Disco SSD,222.29,completado
+2025-12-03,Cliente_133,Chile,Portátil,21.64,pendiente
+2025-09-19,Cliente_133,Colombia,Mochila,88.89,completado
+2025-07-04,Cliente_062,España,Monitor,47.99,completado
+2025-07-24,Cliente_091,Ecuador,Altavoz,295.11,completado
+2025-01-08,Cliente_018,México,Cable USB-C,145.82,pendiente
+2025-10-26,Cliente_090,Perú,Auriculares,117.02,completado
+2025-08-21,Cliente_104,España,Auriculares,91.64,completado
+2025-02-24,Cliente_144,México,Cable USB-C,150.65,completado
+2025-09-20,Cliente_066,Chile,Disco SSD,483.20,pendiente
+2025-09-05,Cliente_063,Perú,Disco SSD,342.39,pendiente
+2025-01-15,Cliente_124,México,Auriculares,38.44,pendiente
+2025-04-23,Cliente_059,Perú,Altavoz,477.95,completado
+2025-10-02,Cliente_003,Chile,Portátil,147.21,completado
+2025-12-11,Cliente_088,México,Cable USB-C,466.04,completado
+10 jun 2025,Cliente_091,Colombia,Mochila,138.19,cancelado
+2025-12-16,Cliente_049,Estados Unidos,Portátil,121.26,completado
+2025-05-16,Cliente_053,Colombia,Portátil,418.30,pendiente
+2025-07-02,Cliente_040,México,Ratón,460.49,cancelado
+2025-12-06,Cliente_127,España,Cable USB-C,479.21,completado
+2025-07-10,Cliente_081,Estados Unidos,Mochila,435.04,completado
+4 abr 2025,Cliente_131,Chile,Altavoz,114.94,pendiente
+2025-03-07,Cliente_014,Ecuador,Disco SSD,,completado
+2025-09-15,Cliente_089,Ecuador,Monitor,231.31,completado
+2025-12-24,Cliente_133,Estados Unidos,Webcam,346.16,completado
+2025-12-12,Cliente_054,Ecuador,Mochila,54.87,completado
+2025-11-10,Cliente_067,Argentina,Cable USB-C,135.11,completado
+2025-08-30,Cliente_088,Perú,Monitor,251.89,completado
+2025-08-03,Cliente_096,Perú,Altavoz,143.42,completado
+2025-10-20,Cliente_034,Colombia,Ratón,361.80,completado
+2025-10-12,Cliente_111,Ecuador,Portátil,77.19,cancelado
+2025-03-18,Cliente_122,España,Monitor,213.65,completado
+2025-11-19,Cliente_133,Perú,Disco SSD,153.52,pendiente
+2025-10-18,Cliente_013,Ecuador,Ratón,346.82,completado
+2025-04-21,Cliente_066,Estados Unidos,Ratón,227.68,completado
+2025-05-14,Cliente_093,Perú,Cable USB-C,280.96,completado
+2025-06-26,Cliente_006,Ecuador,Ratón,178.79,cancelado
+2025-11-07,Cliente_051,Argentina,Auriculares,180.78,cancelado
+2025-09-19,Cliente_125,Estados Unidos,Ratón,193.63,completado
+2025-08-26,Cliente_038,Argentina,Webcam,213.80,pendiente
+2025-10-20,Cliente_104,México,Ratón,85.19,completado
+2025-06-10,Cliente_082,Chile,Auriculares,304.67,completado
+2025-05-19,Cliente_114,Perú,Mochila,262.86,completado
+2025-07-31,Cliente_043,Argentina,Teclado,66.89,completado
+2025-12-05,Cliente_065,México,Portátil,87.62,completado
+2025-02-18,Cliente_017,Estados Unidos,Cable USB-C,31.64,cancelado
+2025-07-23,Cliente_135,México,Ratón,134.91,completado
+2025-02-13,Cliente_100,Chile,Portátil,127.46,completado
+15 ago 2025,Cliente_033,Argentina,Cable USB-C,420.07,completado
+2025-01-18,Cliente_092,Perú,Disco SSD,236.26,completado
+2025-05-20,Cliente_141,Estados Unidos,Monitor,484.92,cancelado
+2025-10-04,Cliente_046,Estados Unidos,Mochila,220.31,pendiente
+2025-11-24,Cliente_137,Chile,Webcam,243.42,completado
+2025-02-15,Cliente_114,Chile,Webcam,209.04,completado
+2025-06-05,Cliente_003,España,Cable USB-C,408.61,completado
+2025-06-26,Cliente_074,Estados Unidos,Cable USB-C,9.12,completado
+2025-09-02,Cliente_077,España,Altavoz,399.99,pendiente
+2025-04-29,Cliente_002,Perú,Portátil,208.81,pendiente
+2025-08-12,Cliente_102,Colombia,Monitor,358.89,pendiente
+2025-07-19,Cliente_097,Colombia,Auriculares,44.21,pendiente
+2025-05-03,Cliente_133,Chile,Auriculares,325.99,completado
+2025-05-18,Cliente_106,Colombia,Ratón,95.29,completado
+2025-02-26,Cliente_117,Estados Unidos,Auriculares,351.73,completado
+2025-04-07,Cliente_083,España,Monitor,29.57,completado
+2025-01-12,Cliente_048,México,Auriculares,138.25,cancelado
+2025-08-13,Cliente_003,Colombia,Ratón,79.59,completado
+2025-04-22,Cliente_088,Ecuador,Auriculares,393.93,completado
+2025-07-10,Cliente_119,España,Webcam,44.71,cancelado
+2025-03-16,Cliente_015,Chile,Altavoz,40.34,completado
+2025-04-03,Cliente_050,Chile,Altavoz,414.98,completado
+2025-05-08,Cliente_099,Estados Unidos,Portátil,370.12,completado
+2025-04-12,Cliente_118,México,Cable USB-C,334.67,completado
+2025-08-31,Cliente_100,Chile,Webcam,83.51,cancelado
+2025-01-22,Cliente_141,México,Auriculares,243.21,completado
+12/04/2025,Cliente_093,España,Portátil,486.77,completado
+2025-11-21,Cliente_112,Perú,Teclado,87.84,completado
+2025-10-27,Cliente_031,Ecuador,Portátil,9.42,completado
+2025-10-25,Cliente_122,Argentina,Webcam,386.54,completado
+2025-03-22,Cliente_128,México,Mochila,172.52,cancelado
+2025-11-17,Cliente_016,España,Webcam,324.06,cancelado
+2025-10-02,Cliente_028,Argentina,Disco SSD,120.17,pendiente
+2025-11-27,Cliente_089,Estados Unidos,Portátil,15.57,completado
+2025-07-03,Cliente_035,Chile,Teclado,245.22,completado
+2025-10-14,Cliente_076,Estados Unidos,Portátil,285.52,completado
+2025-06-28,Cliente_083,Estados Unidos,Auriculares,434.49,pendiente
+2025-10-11,Cliente_042,México,Cable USB-C,81.74,completado
+2025-05-15,Cliente_139,Perú,Disco SSD,5.36,pendiente
+2025-09-17,Cliente_098,Argentina,Teclado,311.77,completado
+2025-11-14,Cliente_062,Perú,Ratón,330.85,completado
+30-feb-2025,Cliente_049,Estados Unidos,Cable USB-C,81.30,completado
+2025-06-15,Cliente_105,Perú,Ratón,52.65,pendiente
+2025-02-04,Cliente_012,Argentina,Monitor,437.38,completado
+2025-02-24,Cliente_125,Colombia,Ratón,20.75,pendiente
+2025-07-18,Cliente_126,Chile,Teclado,186.35,pendiente
+2025-02-06,Cliente_004,Colombia,Disco SSD,464.56,completado
+2025-08-28,Cliente_016,Perú,Cable USB-C,373.02,completado
+2025-07-08,Cliente_015,Chile,Cable USB-C,25.12,completado
+2025-06-05,Cliente_020,Colombia,Cable USB-C,53.07,cancelado
+29 abr 2025,Cliente_137,Ecuador,Portátil,100.59,pendiente
+2025-05-08,Cliente_146,Argentina,Cable USB-C,375.85,completado
+2025-02-24,Cliente_148,Perú,Disco SSD,352.76,completado
+2025-02-23,Cliente_043,Argentina,Cable USB-C,203.77,completado
+2025-12-03,Cliente_041,Estados Unidos,Webcam,451.73,pendiente
+2025-06-16,Cliente_096,Ecuador,Altavoz,413.95,completado
+2025-11-08,Cliente_062,Colombia,Altavoz,384.03,cancelado
+2025-05-11,Cliente_093,Estados Unidos,Disco SSD,480.11,completado
+2025-01-18,Cliente_073,España,Cable USB-C,,completado
+2025-01-04,Cliente_077,Colombia,Portátil,428.58,completado
+2025-12-20,Cliente_071,Argentina,Ratón,,completado
+2025-03-21,Cliente_036,Chile,Webcam,445.36,completado
+30 abr 2025,Cliente_066,Chile,Ratón,287.39,pendiente
+2025-04-22,Cliente_020,Perú,Disco SSD,90.59,cancelado
+2025-12-26,Cliente_148,México,Mochila,,completado
+2025-10-23,Cliente_098,México,Teclado,461.33,completado
+2025-06-28,Cliente_112,Ecuador,Ratón,435.54,completado
+2025-12-01,Cliente_003,Ecuador,Teclado,155.87,completado
+2025-06-13,Cliente_139,Argentina,Webcam,,completado
+2025-03-20,Cliente_013,Ecuador,Disco SSD,377.66,pendiente
+fecha-invalida,Cliente_024,Colombia,Altavoz,148.44,completado
+2025-03-17,Cliente_034,Perú,Ratón,240.55,cancelado
+2025-01-26,Cliente_141,Ecuador,Auriculares,47.11,completado
+2025-08-11,Cliente_034,Argentina,Disco SSD,281.85,completado
+2025-07-22,Cliente_147,Colombia,Cable USB-C,309.92,cancelado
+2025-09-26,Cliente_064,Colombia,Ratón,136.80,completado
+15/06/2025,Cliente_148,México,Ratón,337.52,completado
+2025-07-07,Cliente_090,Colombia,Webcam,175.54,pendiente
+2025-01-13,Cliente_079,Argentina,Webcam,310.03,completado
+2025-11-16,Cliente_038,Estados Unidos,Teclado,462.49,completado
+2025-04-13,Cliente_096,Argentina,Ratón,60.62,completado
+2025-05-05,Cliente_038,Chile,Teclado,174.92,completado
+2025-06-06,Cliente_116,Estados Unidos,Teclado,169.28,cancelado
+3 oct 2025,Cliente_055,Colombia,Cable USB-C,264.02,completado
+2025-10-08,Cliente_124,Argentina,Teclado,191.42,pendiente
+2025-09-27,Cliente_012,Chile,Monitor,34.75,completado
+2025-12-23,Cliente_070,España,Disco SSD,329.11,completado
+2025-02-04,Cliente_100,Chile,Webcam,432.82,completado
+2025-05-30,Cliente_099,Colombia,Altavoz,256.73,cancelado
+2025-02-20,Cliente_081,Estados Unidos,Mochila,268.12,completado
+2025-04-12,Cliente_129,Estados Unidos,Cable USB-C,463.54,completado
+2025-01-21,Cliente_064,Chile,Webcam,247.52,cancelado
+2025-03-22,Cliente_005,Perú,Webcam,180.91,completado
+2025-05-01,Cliente_129,Chile,Teclado,314.77,completado
+2025-01-16,Cliente_143,Chile,Portátil,80.10,completado
+2025-12-03,Cliente_036,México,Altavoz,262.76,cancelado
+2025-11-10,Cliente_059,Ecuador,Portátil,288.58,completado
+2025-06-09,Cliente_085,Estados Unidos,Cable USB-C,70.23,pendiente
+2025-03-12,Cliente_149,Colombia,Monitor,,cancelado
+2025-09-26,Cliente_035,Ecuador,Monitor,329.83,pendiente
+2025-03-22,Cliente_082,México,Cable USB-C,268.82,cancelado
+2025-03-02,Cliente_048,Perú,Monitor,364.90,cancelado
+2025-06-13,Cliente_106,Ecuador,Auriculares,224.29,pendiente
+2025-05-21,Cliente_039,Colombia,Ratón,70.12,completado
+2025-11-10,Cliente_069,Colombia,Mochila,119.93,cancelado
+14/01/2025,Cliente_092,México,Disco SSD,71.37,pendiente
+2025-08-29,Cliente_096,Argentina,Altavoz,248.27,completado
+2025-03-25,Cliente_050,Colombia,Teclado,207.25,completado
+2025-05-19,Cliente_106,Colombia,Portátil,380.10,completado
+2025-04-01,Cliente_113,Estados Unidos,Webcam,434.05,completado
+2025-08-07,Cliente_104,España,Mochila,368.99,completado
+2025-06-10,Cliente_101,España,Cable USB-C,59.11,completado
+22-01-2025,Cliente_063,Ecuador,Teclado,281.06,completado
+2025-11-19,Cliente_013,Colombia,Auriculares,222.58,completado
+2025-05-27,Cliente_119,Argentina,Altavoz,150.74,completado
+2025-12-20,Cliente_133,Argentina,Disco SSD,415.80,completado
+2025-02-16,Cliente_129,México,Monitor,390.47,cancelado
+2025-10-07,Cliente_035,Ecuador,Altavoz,,completado
+2025-04-02,Cliente_117,Colombia,Disco SSD,49.64,completado
+2025-12-21,Cliente_042,México,Ratón,61.51,completado
+2025-11-21,Cliente_093,México,Cable USB-C,355.10,cancelado
+19/09/2025,Cliente_041,Ecuador,Cable USB-C,193.40,cancelado
+2025-03-29,Cliente_086,Argentina,Monitor,435.07,completado
+2025-12-31,Cliente_014,Ecuador,Auriculares,158.21,cancelado
+2025-08-17,Cliente_074,Argentina,Ratón,449.78,completado
+2025-01-02,Cliente_065,España,Disco SSD,251.33,completado
+2025-10-06,Cliente_002,Estados Unidos,Portátil,112.35,pendiente
+2025-09-01,Cliente_117,Ecuador,Disco SSD,44.31,pendiente
+2025-01-04,Cliente_063,Chile,Mochila,316.17,completado
+2025-01-26,Cliente_048,Argentina,Teclado,328.37,completado
+2025-03-16,Cliente_009,Chile,Webcam,460.59,completado
+2025-02-25,Cliente_107,Argentina,Monitor,337.68,pendiente
+2025-12-05,Cliente_147,Argentina,Disco SSD,375.92,completado
+2025-01-19,Cliente_024,Chile,Webcam,187.44,completado
+2025-02-04,Cliente_110,México,Auriculares,238.05,completado
+2025-12-22,Cliente_071,Perú,Cable USB-C,209.81,completado
+2025-10-21,Cliente_101,España,Monitor,303.18,pendiente
+2025-07-18,Cliente_108,Argentina,Mochila,194.94,completado
+2025-04-28,Cliente_064,Estados Unidos,Webcam,81.79,completado
+2025-06-04,Cliente_032,España,Portátil,212.81,pendiente
+2025-07-11,Cliente_144,Chile,Auriculares,343.78,completado
+2025-05-22,Cliente_012,España,Webcam,386.70,pendiente
+2025-04-10,Cliente_099,Estados Unidos,Altavoz,125.77,pendiente
+2025-08-10,Cliente_048,Ecuador,Ratón,387.22,completado
+2025-08-25,Cliente_149,España,Disco SSD,454.98,pendiente
+2025-04-20,Cliente_109,México,Portátil,271.19,cancelado
+2025-03-22,Cliente_082,México,Cable USB-C,268.82,cancelado
+2025-09-26,Cliente_073,México,Portátil,151.64,completado
+2025-03-13,Cliente_064,Chile,Ratón,127.84,pendiente
+2025-02-09,Cliente_061,Perú,Webcam,88.10,completado
+2025-06-22,Cliente_066,Estados Unidos,Disco SSD,233.11,cancelado
+2025-03-28,Cliente_148,Argentina,Disco SSD,393.68,cancelado
+2025-10-20,Cliente_034,Colombia,Ratón,361.80,completado
+2025-11-20,Cliente_132,Colombia,Monitor,149.18,completado
+2025-08-30,Cliente_088,Perú,Monitor,251.89,completado
+2025-01-08,Cliente_024,Colombia,Monitor,206.17,completado
+2025-11-12,Cliente_144,Colombia,Cable USB-C,197.50,completado
+2025-03-12,Cliente_003,Argentina,Disco SSD,476.74,completado
+2025-05-17,Cliente_008,Argentina,Auriculares,352.84,completado
+2025-11-21,Cliente_093,México,Cable USB-C,355.10,cancelado
+2025-10-26,Cliente_090,Perú,Auriculares,117.02,completado
+2025-07-24,Cliente_085,Chile,Ratón,483.61,completado
+2025-03-26,Cliente_066,Estados Unidos,Auriculares,374.55,completado
+2025-05-11,Cliente_093,Estados Unidos,Disco SSD,480.11,completado
+2025-08-03,Cliente_096,Perú,Altavoz,143.42,completado
+2025-04-23,Cliente_049,Chile,Monitor,315.98,pendiente
+2025-04-01,Cliente_134,Chile,Mochila,405.06,completado
+2025-11-05,Cliente_057,Estados Unidos,Portátil,140.10,completado
+2025-07-25,Cliente_018,Estados Unidos,Auriculares,387.90,completado
+2025-09-26,Cliente_134,Argentina,Webcam,189.56,completado
+2025-06-02,Cliente_100,Ecuador,Cable USB-C,375.02,completado
+2025-08-22,Cliente_131,Perú,Teclado,252.31,pendiente
+2025-05-05,Cliente_038,Chile,Teclado,174.92,completado
+2025-11-02,Cliente_001,Chile,Monitor,493.83,completado
+2025-12-22,Cliente_071,Perú,Cable USB-C,209.81,completado
+2025-07-30,Cliente_064,Chile,Monitor,394.75,completado
+2025-11-23,Cliente_045,Perú,Cable USB-C,116.00,completado
+2025-11-01,Cliente_022,México,Portátil,330.51,completado
+2025-06-05,Cliente_003,España,Cable USB-C,408.61,completado
+2025-12-31,Cliente_014,Ecuador,Auriculares,158.21,cancelado
+2025-03-09,Cliente_074,Estados Unidos,Disco SSD,65.11,pendiente
+2025-01-22,Cliente_141,México,Auriculares,243.21,completado
+2025-10-04,Cliente_046,Estados Unidos,Mochila,220.31,pendiente
+2025-12-04,Cliente_079,Argentina,Mochila,285.60,completado
+2025-04-20,Cliente_103,España,Monitor,192.59,completado
+2025-11-05,Cliente_052,Estados Unidos,Webcam,92.93,completado

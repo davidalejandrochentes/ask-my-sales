@@ -198,9 +198,9 @@ Resumen de `docs/decisions.md`:
 | D8 | Dos barreras: validador + conexión read-only | Defensa en profundidad |
 | D9 | SDK `openai` contra NVIDIA, sin LangChain | API compatible; fácil de testear con mock |
 | D10 | Endpoint síncrono (`def`) | SDK y `sqlite3` síncronos; FastAPI usa thread pool |
-| D11 | Modelo NVIDIA: `deepseek-ai/deepseek-v4-flash` | Rápido, compatible OpenAI, timeout 30s |
+| D11 | Modelo NVIDIA: `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning` | Rápido, compatible OpenAI, timeout 30s |
 | D12 | 502 cuando LLM falla | Comportamiento correcto ante API externa no disponible |
-| D13 | Modelo en .env: `deepseek-ai/deepseek-v4.1-flash` | Probado en T10 |
+| D13 | Modelo en .env: `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning` | Probado en T10 |
 
 Ver `docs/decisions.md` para lista completa.
 
@@ -247,7 +247,7 @@ Ver `docs/time-log.md` (rellenado manualmente).
 ```bash
 NVIDIA_API_KEY=
 NVIDIA_BASE_URL=https://integrate.api.nvidia.com/v1
-NVIDIA_MODEL=deepseek-ai/deepseek-v4.1-flash
+NVIDIA_MODEL=nvidia/nemotron-3-nano-omni-30b-a3b-reasoning
 DB_PATH=data/orders.db
 ```
 

@@ -27,7 +27,7 @@ NVIDIA_MODEL=
 DB_PATH=data/orders.db
 ```
 
-`NVIDIA_MODEL` sin valor por defecto en el código. Modelo elegido (D11): `deepseek-ai/deepseek-v4-flash`; el humano confirma el identificador exacto en el snippet "View Code" de build.nvidia.com y lo pone en su `.env`. Si falta, `LLM_NOT_CONFIGURED`.
+`NVIDIA_MODEL` sin valor por defecto en el código. Modelo elegido (D11): `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning`; el humano confirma el identificador exacto en el snippet "View Code" de build.nvidia.com y lo pone en su `.env`. Si falta, `LLM_NOT_CONFIGURED`.
 
 ## Módulos y responsabilidades
 

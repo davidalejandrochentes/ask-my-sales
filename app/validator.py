@@ -78,11 +78,12 @@ def validate_sql(sql: str) -> str:
             if table_name not in ALLOWED_TABLES and table_name not in cte_aliases:
                 raise InvalidSQLError(f"Table not allowed: {table_name}")
 
-    # 7. Check functions
+    # 7. Check functions (skip logical operators which are Func subclasses)
+    LOGICAL_OPERATOR_TYPES = {exp.And, exp.Or, exp.Not}
     for node in stmt.walk():
         if isinstance(node, exp.Anonymous):
             raise InvalidSQLError(f"Unknown function: {node.this}")
-        if isinstance(node, exp.Func):
+        if isinstance(node, exp.Func) and type(node) not in LOGICAL_OPERATOR_TYPES:
             if type(node) not in ALLOWED_FUNCTION_TYPES:
                 raise InvalidSQLError(f"Function not allowed: {type(node).__name__}")
 

@@ -94,8 +94,9 @@ class NvidiaLLMClient:
             "- Business rules:\n"
             '  - "ventas" or "vendimos" means status = \'completado\'.\n'
             "  - If no year specified, use the year from the data range.\n"
-            "  - Filter months using strftime('%m', order_date) or YYYY-MM "
-            "comparison.\n"
+            "  - The sales_by_month_country.month column is in YYYY-MM format "
+            "(e.g., '2025-03'). Filter with month = 'YYYY-MM' or "
+            "strftime('%Y-%m', order_date) = 'YYYY-MM'.\n"
             "- If the question cannot be answered with the allowed tables, "
             "return a non-SQL response (it will be rejected)."
         )
